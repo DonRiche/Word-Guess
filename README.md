@@ -1,5 +1,5 @@
 # Word-Guess
-Disney's Hangman Game
+Disney Guess-The-Movie Game
 
 This game is based on Disney movies,
 All you have to do is:
@@ -10,10 +10,12 @@ All you have to do is:
 -Wins: (# of times user guessed the movie correctly).
 
 
--If the movie is Alladin, the game displays it at its start: _ _ _ _ _ _ _.
+For example: 
+
+-If the movie is Aladdin, the game displays it at its start: _ _ _ _ _ _ _.
 
 
--As the user guesses the correct letters, reveal them: a l l a _ _ n.
+-As the user guesses the correct letters, reveal them: a l a d _ _ n.
 
 
 -Number of Guesses Remaining: (# of guesses remaining for the user).
@@ -25,7 +27,8 @@ All you have to do is:
 -After the user wins/loses the game will automatically choose another movie and make the user play it.
 
 
-Click link to play!!!
+
+Click MICKEY to play!!!
 
 <a href="https://donriche.github.io/Word-Guess/">
         <img src="assets/images/mickeyIcon.png" type="image/png" />

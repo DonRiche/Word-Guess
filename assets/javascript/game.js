@@ -1,5 +1,6 @@
 //variables 
-var listOfMovies = ["toy story", "alladin", "the little mermaid", "boss baby", "shrek", "moana", "zootopia", "the lego movie", "coco", "finding nemo", "how to train a dragon", "frozen", "up", "the incredibles", "the lion king", "bambi", "dumbo"];
+var listOfMovies = ["toy story", "aladdin", "the little mermaid", "boss baby", "shrek", "moana", "zootopia", "the lego movie", "coco", "finding nemo", "how to train a dragon", "frozen", "up", "the incredibles", "the lion king", "bambi", "dumbo", "cinderella", "monsters inc", "the jungle book", "brave", "robin hood", "the aristocats", "lady and the tramp", "mary poppins", "peter pan", "finding dory", "sleeping beauty", "maleficient", "beauty and the beast", "wreck-it ralph", "tangled", "the princess and the frog", "snow white", "mulan", "pinocchio", "hercules", "lilo and stitch", "pocahontas", "tarzan", "alice in wonderland", "the fox and the hound", "the sword in the stone", "the rescuers", "fantasia", "the parent trap", "oliver and company", "chicken little", "cars", "wall-e"];
+
 var selectedMovie = "";
 var guessedLetters = [];
 var lettersInMovie = [];
